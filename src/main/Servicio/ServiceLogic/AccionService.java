@@ -20,7 +20,7 @@ public class AccionService {
     private static  AccionService servicio;
     private ArrayList<Accion> acciones; 
     
-
+//falta crear archivo
     public static AccionService getService(){
     if(servicio == null){
         servicio = new AccionService();
