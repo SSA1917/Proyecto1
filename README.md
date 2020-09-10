@@ -1,2 +1,2 @@
-# Proyecto1
-gordo ratero
+# Interfaz Grafica 1
+
